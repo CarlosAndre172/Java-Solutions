@@ -1,0 +1,2 @@
+Vetores|10.0|10.0|100|Aprovado por media.|0.0
+Teste doido maluco|10.0|10.0|100|Aprovado por media.|0.0
